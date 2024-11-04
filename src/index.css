@@ -1,0 +1,27 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Set padding for the body */
+body {
+    padding: 20px;
+}
+
+/* Margin for headings */
+h1, h2, h3, h4, h5, h6 {
+    margin: 20px 0 10px 0;
+}
+
+/* Margin for paragraphs */
+p {
+    margin: 0 0 10px 0;
+}
+
+/* Margin for lists */
+ul, ol {
+    margin: 0 0 10px 20px;
+    padding: 0;
+}
